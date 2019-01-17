@@ -1,14 +1,14 @@
-## Basic Details
+### Basic Details
 **Name**              : Parichay Agrawal
 
 **E-mail-ID**         : demoid@host.com
 
 **Mobile Number**     : +918789876569
 
-## OBJECTIVE
+### OBJECTIVE
 To pursue innovative work in an organization which provides ample opportunities for professional growth as well as the development of skills and enhancement of knowledge base.
 
-## ACADEMIC DETAILS
+### ACADEMIC DETAILS
 Currently in 8th semester of B. Tech. in Computer Science Engineering from ABES Institute of Technology located at Ghaziabad, Uttar Pradesh.
 
 
@@ -25,11 +25,11 @@ Currently in 8th semester of B. Tech. in Computer Science Engineering from ABES 
 * Core Java
 * C
 
-## TRAINING AND INTERNSHIPS
+### TRAINING AND INTERNSHIPS
 * 4-week application course from CETPA Noida’ on Core Java.
 * 4-week internship from CEBS Worldwide, Noida on Python and Machine Learning.
 
-## ACHEIVEMENTS & EXTRA CO-CURRICULAR
+### ACHEIVEMENTS & EXTRA CO-CURRICULAR
 * School topper in class 10th CBSE board exam with 10 CGPA (2013).
 * Among top 5 in class 12th board examinations in D&NH region (2015).
 * Awarded 2nd position in Java coding competition at ABESIT college in “Tetrahedron” organized by CSI (2016).
@@ -40,12 +40,12 @@ Currently in 8th semester of B. Tech. in Computer Science Engineering from ABES 
 * Event administrator for Literary Committee in “Festin O’ Beats 9.0” (2018).
 * Awarded 2nd position in national level BigData quiz at BigDataThon’ 18 held at ABESIT college (2018).
 
-## PERSONALITY TRAITS			
+### PERSONALITY TRAITS			
 * Great written and verbal communication skills.
 * Efficient with tackling technical issues and glitches.
 * Having a wider perspective and understanding while working as a team.
 
-## HOBBIES		
+### HOBBIES		
 * Novels (autobiographies and non-fiction)
 * Table Tennis
 * Photography
